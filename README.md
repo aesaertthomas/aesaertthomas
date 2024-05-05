@@ -1,9 +1,8 @@
 # Hello, World! 👋
 
-![pfp](https://github.com/Totmaat/Totmaat/assets/146445271/ab766c7e-1b2b-4a6e-9df1-84a5331b4c0f)
+<img src="https://github.com/Totmaat/Totmaat/assets/146445271/ab766c7e-1b2b-4a6e-9df1-84a5331b4c0f" alt="Profile Picture" width="100" height="100" style="border-radius:50%">
 
-Welcome to my GitHub p
-rofile!
+Welcome to my GitHub profile!
 
 I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location]. Here, you'll find a glimpse of my journey through the world of code and beyond. Feel free to explore, contribute, and connect!
 
