@@ -15,8 +15,19 @@ I'm [Your Name], a passionate [Your Profession/Interest] from [Your Location]. H
 
 ## Tech Stack
 
-- ⚙️ [Your Tech Stack]
-- 🛠 Tools I love: [Your Favorite Tools/Languages]
+### Front-end:
+- HTML
+- CSS
+
+### Back-end:
+- PHP
+- MySQL (as the database)
+
+### Other languages:
+- Java
+- Python
+- C#
+
 
 ## Projects
 
