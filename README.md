@@ -37,8 +37,5 @@ Feel free to check them out and provide feedback!
 
 ## Connect with Me
 
-- 🐦 [Twitter](Link)
-- 💼 [LinkedIn](Link)
-- 🌐 [Website/Blog](Link)
 
 Let's connect and build something awesome together!
