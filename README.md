@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hi there! Welcome to my GitHub!<br><br>I'm an aspiring AI engineer with a passion for aviation, technology, and building creative solutions. My work spans robotics, AI, and software development, often combining them into fun and practical projects.<br><br>
+<p align="left">Hi there! Welcome to my GitHub!<br><br>I'm an aspiring AI engineer with a passion for aviation, technology, and building creative solutions. My work spans robotics, AI, software development, operating systems and compputer networks often combining them into fun and practical projects.<br><br>
   
 About Me:<br>
   - AI Enthusiast: Exploring machine learning and AI applications, with a hands-on approach to building smarter systems.<br>
