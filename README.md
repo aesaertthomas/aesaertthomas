@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">Hi there! Welcome to my little <b>software corner</b>!<br><br>I'm an aspiring AI engineer with a passion for aviation, technology, and building creative solutions. My work spans robotics, AI, software development, operating systems and compputer networks often combining them into fun and practical projects.<br><br>
+<p align="left">Hi there! Welcome to my little <b>software corner</b>!<br><br>I'm a student AI engineering with a passion for aviation, technology, and tinkering with tech My work spans AI, robotics, software development, operating systems and compputer networks often combining them into fun and practical projects.<br><br>
   
 About Me:<br>
   - AI Enthusiast: Exploring machine learning and AI applications, with a hands-on approach to building smarter systems.<br>
   - Aviation Lover: From rockets to RC planes, I enjoy projects that combine engineering and flight.<br>
-  - Tech Tinkerer: Repurposing old tech for innovative projects, like adapting RC components for new use cases.<br>- Full-Stack Learner: Experimenting with small websites and hosting environments using Termux.<br><br>Tech Interests:<br>- Languages: Python, Java, C#, MySQL, PHP<br>
+  - Tech Tinkerer: Repurposing old tech for innovative projects, like adapting RC components for new use cases.<br>Tech Interests:<br>- Languages: Python, Java, C#, MySQL, PHP<br>
   
 Focus Areas:<br>
   - Data filtering and visualization<br>
