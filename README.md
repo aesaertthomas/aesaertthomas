@@ -17,10 +17,11 @@ About Me:<br>
   - Aviation Lover: From rockets to RC planes, I enjoy projects that combine engineering and flight.<br>
   - Tech Tinkerer: Repurposing old tech for innovative projects, like adapting RC components for new use cases.<br>Tech Interests:<br>
   
-- ### Tech Interests 💻
+Tech Interests 💻
 - **Languages**: Python, Java, C#, MySQL, PHP
 - **Focus**: Building practical solutions, automating workflows, and experimenting with cutting-edge technologies.
-Focus Areas:<br>
+
+<br>Focus Areas:<br>
   - Data filtering and visualization<br>
   - Robotics and control systems (e.g., gimbals)<br>
   - Hosting lightweight apps and servers<br>
