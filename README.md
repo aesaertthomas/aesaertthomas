@@ -19,7 +19,7 @@ About Me:<br>
   
 Tech Interests 💻
 - **Languages**: Python, Java, C#, MySQL, PHP
-- **Focus**: Building practical solutions, automating workflows, and experimenting with cutting-edge technologies.
+- **Focus**: Building practical solutions, automating workflows, and experimenting/learning with cool and interesting tech
 
 <br>Focus Areas:<br>
   - Data filtering and visualization<br>
