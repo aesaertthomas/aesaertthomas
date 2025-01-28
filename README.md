@@ -15,8 +15,11 @@
 About Me:<br>
   - AI Enthusiast: Exploring machine learning and AI applications, with a hands-on approach to building smarter systems.<br>
   - Aviation Lover: From rockets to RC planes, I enjoy projects that combine engineering and flight.<br>
-  - Tech Tinkerer: Repurposing old tech for innovative projects, like adapting RC components for new use cases.<br>Tech Interests:<br>- Languages: Python, Java, C#, MySQL, PHP<br>
+  - Tech Tinkerer: Repurposing old tech for innovative projects, like adapting RC components for new use cases.<br>Tech Interests:<br>
   
+- ### Tech Interests 💻
+- **Languages**: Python, Java, C#, MySQL, PHP
+- **Focus**: Building practical solutions, automating workflows, and experimenting with cutting-edge technologies.
 Focus Areas:<br>
   - Data filtering and visualization<br>
   - Robotics and control systems (e.g., gimbals)<br>
