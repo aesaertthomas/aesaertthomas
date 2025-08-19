@@ -27,14 +27,10 @@ Tech Interests 💻
   - Hosting lightweight apps and servers<br>
   - AI Workflows: I prefer avoiding TensorFlow, exploring alternative approaches to machine learning.
 
+<img>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={aesaertthomas}&theme={dracula}</img>
+
 <br><br>Current Projects:<br>
-1. ECU-Gimbal Control:<br>
-A project focused on precise control and visualization for a rocket's gimbal system, designed for the Altis Phantom 1. Currently private but open for potential collaboration.<br><br>
-
-2. Lingua-Forge:<br>
-A personal project focused on building a clean, easy-to-use, and dynamic translation framework using MarianMT models. This project is purely interest-driven and educational, aimed at learning how to set up and manage server environments while exploring machine translation technologies.<br><br>
-
-4. RC and Robotics:<br>
+1. RC and Robotics:<br>
 Teaming up with an aerospace engineering friend to build an autonomous rocket and see what cool stuff we can figure out along the way. It's all about experimenting, learning, and discovering what's possible with mid-flight object tracking and autonomous systems.<br><br>
 
 ###
