@@ -27,7 +27,7 @@ Tech Interests 💻
   - Hosting lightweight apps and servers<br>
   - AI Workflows: I prefer avoiding TensorFlow, exploring alternative approaches to machine learning.
 
-<img>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={aesaertthomas}&theme={dracula}</img>
+<img>http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aesaertthomas&theme=dracula</img>
 
 <br><br>Current Projects:<br>
 1. RC and Robotics:<br>
