@@ -1,4 +1,4 @@
-# Hey 👋 what's up?
+# Sup?
 
 I’m Thomas — a student in AI engineering from near Bruges, Belgium.
 
