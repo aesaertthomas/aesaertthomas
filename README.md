@@ -1,17 +1,19 @@
 # Sup?
 
-I’m Thomas — a student in AI engineering from near Bruges, Belgium.
+I’m Thomas — a student in AI engineering from near Kortrijk, Belgium.
 
 ## About me
-I build practical things at the intersection of **AI**, **robotics**, **software**, **operating systems**, and **computer networks**. I like small, fast, understandable systems.
+I build practical things at the intersection of **AI**, **robotics**(dronses and aviation related), **software**, **operating systems**, and **computer networks**. I like small, fast, understandable systems.
 
 - **AI enthusiast:** hands-on ML, building smarter tools (not hype).
 - **Aviation nerd:** rockets, RC planes, and control systems.
 - **Tech tinkerer:** repurposing old gear for new projects.
 
 ## Tech interests
-- **Focus:** data filtering & viz, robotics/gimbals, hosting lightweight apps/servers  
-- **AI workflows:** I generally avoid TensorFlow and explore alternatives.
+- **Focus:** data filtering & viz, robotics/gimbals  
+- **Backend Systems:** I love tinkering with setting up servers, and API's, ...
+
+  
 
 ## Languages & tools
 Python • Java • C# • PHP • MySQL • Linux • Anaconda • VS Code • Vim • Bash • Arduino • Git
@@ -49,4 +51,6 @@ Python • Java • C# • PHP • MySQL • Linux • Anaconda • VS Code • 
 
 ## Current project
 **RC & Robotics:** teaming up with an aerospace friend to experiment with an autonomous rocket — mid-flight object tracking and autonomy. Learning > hype.
+
+**app** Currently working with 2 classmates to build an app we wish we had in the beginning of our college life already. (further info will come don't worry)
 
