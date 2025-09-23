@@ -1,4 +1,4 @@
-# Sup
+# Hey
 
 I’m Thomas — a student in AI engineering from near Kortrijk, Belgium.
 
